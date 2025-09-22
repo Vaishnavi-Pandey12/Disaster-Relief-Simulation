@@ -105,6 +105,7 @@ typings/
 
 # dotenv environment variables file
 .env
+.*.local
 
 
 ### SublimeText ###
